@@ -1,5 +1,11 @@
 This is supposed to work now...
 
+<<<<<<< HEAD
 We are going to collaborate! 
 
 That's wondeful
+=======
+We are going to collaborate!
+
+Ethan added something
+>>>>>>> master
